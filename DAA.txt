@@ -37,7 +37,7 @@ int main()
 	selection_sort(a,n);
 	return;
 }
-
+.......................................
 
 MERGE SORT
 #include<stdio.h>
@@ -86,7 +86,7 @@ int main()
 	printf("num of basic operations are %d",count);
 	
 }
-
+__________.........____________________
 
 KRUSKAL
 #include<stdio.h>
@@ -144,7 +144,7 @@ int main()
 	kruskal(c,5);
 }
 
-
+________________________________________
 KNAPSACK
 #include<stdio.h>
 
@@ -218,7 +218,7 @@ int main() {
     return 0;
 }
 
-
+________________________________________
 PRIMS
 #include <stdio.h>
 
@@ -262,7 +262,7 @@ int main() {
     
     printf("\n Minimum cost = %d", mincost);
 }
-
+________________________________________
 FLOYDS
 #include <stdio.h>
 #include <limits.h> 
@@ -303,7 +303,7 @@ int main() {
 
     return 0; 
 }
-
+_______________________&____&_____________
 DIJKSTRA
 #include <stdio.h>
 #include <stdlib.h>
